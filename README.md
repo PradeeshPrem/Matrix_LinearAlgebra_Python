@@ -5,7 +5,7 @@ Some of the operations have been included without using the numpy library.
 
 Description of issue being adressed and the solution approach are mentioned underneath:
 
-`rgb(9,105,218)`
+
 **LinearAlegbraMatrixMultiplication** : Write the Python code to multiply two matrices without using NumPy libraries. Verify result using NumPy function.
 
 **LinearAlgebra_Transpose** : Write the Python code to find out the transpose of a matrix without using NumPy libraries
