@@ -21,4 +21,4 @@ Description of issue being adressed and the solution approach are mentioned unde
 
 **LinearAlgebra_2_6a** : You are given augmented Matrix corresponding to system of linear equations consisting of three equations made up of three variables.Write the python code to the solution above set of equations using Matrix inverse method without using NumPy library.
 
-**LinearAlgebra_2_b** : You are given augmented Matrix corresponding to system of linear equations consisting of three equations made up of three variables.Write the python code to find the solution of above set of equations without using NumPy library using Cramer’s method.
+**LinearAlgebra_2_6b** : You are given augmented Matrix corresponding to system of linear equations consisting of three equations made up of three variables.Write the python code to find the solution of above set of equations without using NumPy library using Cramer’s method.
